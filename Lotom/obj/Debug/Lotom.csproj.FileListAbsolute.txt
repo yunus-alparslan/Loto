@@ -1,0 +1,9 @@
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\12-Şehirkodulist\Pomodoro\Lotom\Lotom\Lotom\bin\Debug\Lotom.exe.config
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\12-Şehirkodulist\Pomodoro\Lotom\Lotom\Lotom\bin\Debug\Lotom.exe
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\12-Şehirkodulist\Pomodoro\Lotom\Lotom\Lotom\bin\Debug\Lotom.pdb
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\12-Şehirkodulist\Pomodoro\Lotom\Lotom\Lotom\obj\Debug\Lotom.csprojResolveAssemblyReference.cache
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\12-Şehirkodulist\Pomodoro\Lotom\Lotom\Lotom\obj\Debug\Lotom.Form1.resources
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\12-Şehirkodulist\Pomodoro\Lotom\Lotom\Lotom\obj\Debug\Lotom.Properties.Resources.resources
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\12-Şehirkodulist\Pomodoro\Lotom\Lotom\Lotom\obj\Debug\Lotom.csproj.GenerateResource.Cache
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\12-Şehirkodulist\Pomodoro\Lotom\Lotom\Lotom\obj\Debug\Lotom.exe
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\12-Şehirkodulist\Pomodoro\Lotom\Lotom\Lotom\obj\Debug\Lotom.pdb
